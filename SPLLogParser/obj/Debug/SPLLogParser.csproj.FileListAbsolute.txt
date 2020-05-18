@@ -1,0 +1,9 @@
+C:\Users\mdub3\source\repos\SPLLogParser\SPLLogParser\bin\Debug\SPLLogParser.exe.config
+C:\Users\mdub3\source\repos\SPLLogParser\SPLLogParser\bin\Debug\SPLLogParser.exe
+C:\Users\mdub3\source\repos\SPLLogParser\SPLLogParser\bin\Debug\SPLLogParser.pdb
+C:\Users\mdub3\source\repos\SPLLogParser\SPLLogParser\obj\Debug\SPLLogParser.csprojAssemblyReference.cache
+C:\Users\mdub3\source\repos\SPLLogParser\SPLLogParser\obj\Debug\SPLLogParser.csproj.CoreCompileInputs.cache
+C:\Users\mdub3\source\repos\SPLLogParser\SPLLogParser\obj\Debug\SPLLogParser.exe
+C:\Users\mdub3\source\repos\SPLLogParser\SPLLogParser\obj\Debug\SPLLogParser.pdb
+C:\Users\mdub3\source\repos\SPLLogParser\SPLLogParser\bin\Debug\LibGArrayList.dll
+C:\Users\mdub3\source\repos\SPLLogParser\SPLLogParser\obj\Debug\SPLLogParser.csproj.CopyComplete
